@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\Jas\Documents\_projectosCodeLite\PR3\PR3.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\PR3.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\UOCGames\src\ranking.c" Name="FileName"/>
+      <int Value="268" Name="FirstVisibleLine"/>
+      <int Value="349" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="137"/>
+        <IntVectorItem Value="145"/>
+        <IntVectorItem Value="151"/>
+        <IntVectorItem Value="189"/>
+        <IntVectorItem Value="233"/>
+        <IntVectorItem Value="263"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\UOCGames\include\ranking.h" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="26" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\UOCOlimpics\test\src\test_pr3.c" Name="FileName"/>
+      <int Value="682" Name="FirstVisibleLine"/>
+      <int Value="688" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\UOCGames\src\competition.c" Name="FileName"/>
+      <int Value="112" Name="FirstVisibleLine"/>
+      <int Value="203" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="73"/>
+        <IntVectorItem Value="94"/>
+        <IntVectorItem Value="106"/>
+        <IntVectorItem Value="145"/>
+        <IntVectorItem Value="210"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Jas\Documents\_projectosCodeLite\PR3\UOCGames\src\match.c" Name="FileName"/>
+      <int Value="131" Name="FirstVisibleLine"/>
+      <int Value="137" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

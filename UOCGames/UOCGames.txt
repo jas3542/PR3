@@ -1,0 +1,1 @@
+./Debug/src_ranking.c.o ./Debug/src_team.c.o ./Debug/src_competition.c.o ./Debug/src_player.c.o ./Debug/src_match.c.o   

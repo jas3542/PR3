@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PR3" Database="" Version="10.0.0">
+  <Project Name="UOCOlimpics" Path="UOCOlimpics/UOCOlimpics.project" Active="Yes"/>
+  <Project Name="UOCGames" Path="UOCGames/UOCGames.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCOlimpics" ConfigName="Debug"/>
+      <Project Name="UOCGames" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCOlimpics" ConfigName="Release"/>
+      <Project Name="UOCGames" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
